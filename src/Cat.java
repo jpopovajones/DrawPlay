@@ -1,3 +1,4 @@
+//Ivan Santos and Jonny Popova-Jones
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;

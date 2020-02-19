@@ -1,3 +1,4 @@
+//Ivan Santos and Jonny Popova-Jones
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
